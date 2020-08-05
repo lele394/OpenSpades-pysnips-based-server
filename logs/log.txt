@@ -1,0 +1,281 @@
+2020-08-05 15:48:55+0200 [-] pyspades server started on 08/05/20 15:48:55
+2020-08-05 15:48:55+0200 [-] Log opened.
+2020-08-05 15:48:55+0200 [-] Invalid map in map rotation (genway), exiting.
+2020-08-05 15:49:39+0200 [-] pyspades server started on 08/05/20 15:49:39
+2020-08-05 15:49:39+0200 [-] Log opened.
+2020-08-05 15:49:39+0200 [-] Invalid map in map rotation (genway), exiting.
+2020-08-05 15:49:55+0200 [-] pyspades server started on 08/05/20 15:49:55
+2020-08-05 15:49:55+0200 [-] Log opened.
+2020-08-05 15:49:55+0200 [-] Generating map 'classicgen #148435757'...
+2020-08-05 15:49:58+0200 [-] Map loaded successfully.
+2020-08-05 15:49:58+0200 [-] Started server...
+2020-08-05 15:49:58+0200 [-] Master connection established.
+2020-08-05 15:49:58+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:22887
+2020-08-05 15:50:13+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:50:22+0200 [-] lele394 disconnected!
+2020-08-05 15:51:02+0200 [-] Wissotsky (IP 77.124.39.93, ID 0) entered the game!
+2020-08-05 15:51:33+0200 [-] lele394 (IP 192.168.1.254, ID 1) entered the game!
+2020-08-05 15:51:37+0200 [-] lele394 disconnected!
+2020-08-05 15:51:45+0200 [-] Wissotsky disconnected!
+s1' IN GROUP 'admin'
+2020-08-05 15:51:18+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 15:51:18+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 15:51:18+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 15:51:18+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 15:51:18+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 15:51:18+0200 [-] Generating map 'classicgen #1043012610'...
+2020-08-05 15:51:21+0200 [-] Map loaded successfully.
+2020-08-05 15:51:21+0200 [-] Started server...
+2020-08-05 15:51:21+0200 [-] Master connection established.
+2020-08-05 15:51:22+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:51:55+0200 [-] pyspades server started on 08/05/20 15:51:55
+2020-08-05 15:51:55+0200 [-] Log opened.
+2020-08-05 15:51:55+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass1' IN GROUP 'admin'
+2020-08-05 15:51:55+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 15:51:55+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 15:51:55+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 15:51:55+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 15:51:55+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 15:51:55+0200 [-] Traceback (most recent call last):
+2020-08-05 15:51:55+0200 [-]   File "run.py", line 1074, in <module>
+2020-08-05 15:51:55+0200 [-]   File ".\scripts\disco.py", line 39, in __init__
+2020-08-05 15:51:55+0200 [-]     protocol.__init__(self, *arg, **kw)
+2020-08-05 15:51:55+0200 [-]   File "run.py", line 687, in __init__
+2020-08-05 15:51:55+0200 [-]   File "pyspades\server.pyo", line 1491, in __init__
+2020-08-05 15:51:55+0200 [-]   File "pyspades\protocol.pyo", line 85, in __init__
+2020-08-05 15:51:55+0200 [-]   File "enet.pyx", line 869, in enet.Host.__init__ (enet.c:10169)
+2020-08-05 15:51:55+0200 [-] MemoryError: Unable to create host structure!
+2020-08-05 15:52:07+0200 [-] pyspades server started on 08/05/20 15:52:07
+2020-08-05 15:52:07+0200 [-] Log opened.
+2020-08-05 15:52:07+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass1' IN GROUP 'admin'
+2020-08-05 15:52:07+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 15:52:07+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 15:52:07+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 15:52:07+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 15:52:07+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 15:52:07+0200 [-] Generating map 'classicgen #1749469601'...
+2020-08-05 15:52:10+0200 [-] Map loaded successfully.
+2020-08-05 15:52:10+0200 [-] Started server...
+2020-08-05 15:52:10+0200 [-] Master connection established.
+2020-08-05 15:52:10+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:53:03+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:53:11+0200 [-] lele394 disconnected!
+2020-08-05 15:53:21+0200 [-] pyspades server started on 08/05/20 15:53:21
+2020-08-05 15:53:21+0200 [-] Log opened.
+2020-08-05 15:53:21+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass1' IN GROUP 'admin'
+2020-08-05 15:53:21+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 15:53:21+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 15:53:21+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 15:53:21+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 15:53:21+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 15:53:21+0200 [-] Generating map 'classicgen #939738177'...
+2020-08-05 15:53:24+0200 [-] Map loaded successfully.
+2020-08-05 15:53:24+0200 [-] Started server...
+2020-08-05 15:53:25+0200 [-] Master connection established.
+2020-08-05 15:53:25+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:53:38+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:53:44+0200 [-] lele394 disconnected!
+2020-08-05 15:56:19+0200 [-] pyspades server started on 08/05/20 15:56:19
+2020-08-05 15:56:19+0200 [-] Log opened.
+2020-08-05 15:56:19+0200 [-] Generating map 'classicgen #1895503184'...
+2020-08-05 15:56:22+0200 [-] Map loaded successfully.
+2020-08-05 15:56:22+0200 [-] Started server...
+2020-08-05 15:56:22+0200 [-] Master connection established.
+2020-08-05 15:56:22+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:56:31+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:56:38+0200 [-] lele394 disconnected!
+2020-08-05 15:57:20+0200 [-] pyspades server started on 08/05/20 15:57:20
+2020-08-05 15:57:20+0200 [-] Log opened.
+2020-08-05 15:57:20+0200 [-] Generating map 'classicgen #1114036016'...
+2020-08-05 15:57:23+0200 [-] Map loaded successfully.
+2020-08-05 15:57:23+0200 [-] Started server...
+2020-08-05 15:57:24+0200 [-] Master connection established.
+2020-08-05 15:57:24+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:57:33+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:57:58+0200 [-] pyspades server started on 08/05/20 15:57:58
+2020-08-05 15:57:58+0200 [-] Log opened.
+2020-08-05 15:57:58+0200 [-] Generating map 'classicgen #1353223327'...
+2020-08-05 15:58:01+0200 [-] Map loaded successfully.
+2020-08-05 15:58:01+0200 [-] Started server...
+2020-08-05 15:58:02+0200 [-] Master connection established.
+2020-08-05 15:58:02+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:58:10+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:58:22+0200 [-] lele394 disconnected!
+2020-08-05 15:59:04+0200 [-] pyspades server started on 08/05/20 15:59:04
+2020-08-05 15:59:04+0200 [-] Log opened.
+2020-08-05 15:59:04+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass1' IN GROUP 'admin'
+2020-08-05 15:59:04+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 15:59:04+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 15:59:04+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 15:59:04+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 15:59:04+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 15:59:04+0200 [-] Traceback (most recent call last):
+2020-08-05 15:59:04+0200 [-]   File "run.py", line 1074, in <module>
+2020-08-05 15:59:04+0200 [-]   File ".\scripts\disco.py", line 39, in __init__
+2020-08-05 15:59:04+0200 [-]     protocol.__init__(self, *arg, **kw)
+2020-08-05 15:59:04+0200 [-]   File "run.py", line 687, in __init__
+2020-08-05 15:59:04+0200 [-]   File "pyspades\server.pyo", line 1491, in __init__
+2020-08-05 15:59:04+0200 [-]   File "pyspades\protocol.pyo", line 85, in __init__
+2020-08-05 15:59:04+0200 [-]   File "enet.pyx", line 869, in enet.Host.__init__ (enet.c:10169)
+2020-08-05 15:59:04+0200 [-] MemoryError: Unable to create host structure!
+2020-08-05 15:59:11+0200 [-] pyspades server started on 08/05/20 15:59:11
+2020-08-05 15:59:11+0200 [-] Log opened.
+2020-08-05 15:59:11+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass1' IN GROUP 'admin'
+2020-08-05 15:59:11+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 15:59:11+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 15:59:11+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 15:59:11+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 15:59:11+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 15:59:11+0200 [-] Generating map 'classicgen #1668941685'...
+2020-08-05 15:59:14+0200 [-] Map loaded successfully.
+2020-08-05 15:59:14+0200 [-] Started server...
+2020-08-05 15:59:15+0200 [-] Master connection established.
+2020-08-05 15:59:15+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 15:59:26+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 15:59:31+0200 [-] lele394 disconnected!
+2020-08-05 16:00:02+0200 [-] pyspades server started on 08/05/20 16:00:02
+2020-08-05 16:00:02+0200 [-] Log opened.
+2020-08-05 16:00:02+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass1' IN GROUP 'admin'
+2020-08-05 16:00:02+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass2' IN GROUP 'admin'
+2020-08-05 16:00:02+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'adminpass3' IN GROUP 'admin'
+2020-08-05 16:00:02+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'modpass' IN GROUP 'moderator'
+2020-08-05 16:00:02+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'guardpass' IN GROUP 'guard'
+2020-08-05 16:00:02+0200 [-] WARNING: FOUND DEFAULT PASSWORD 'trustedpass' IN GROUP 'trusted'
+2020-08-05 16:00:02+0200 [-] Generating map 'classicgen #909511182'...
+2020-08-05 16:00:05+0200 [-] Map loaded successfully.
+2020-08-05 16:00:05+0200 [-] Started server...
+2020-08-05 16:00:05+0200 [-] Master connection established.
+2020-08-05 16:00:05+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:00:15+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:00:21+0200 [-] lele394 disconnected!
+2020-08-05 16:00:43+0200 [-] pyspades server started on 08/05/20 16:00:43
+2020-08-05 16:00:43+0200 [-] Log opened.
+2020-08-05 16:00:43+0200 [-] Generating map 'classicgen #1723732992'...
+2020-08-05 16:00:46+0200 [-] Map loaded successfully.
+2020-08-05 16:00:47+0200 [-] Started server...
+2020-08-05 16:00:47+0200 [-] Master connection established.
+2020-08-05 16:00:47+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:00:55+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:01:12+0200 [-] <lele394> /login 0823
+2020-08-05 16:01:24+0200 [-] <lele394> /tp 512 256 -> No such player
+2020-08-05 16:03:51+0200 [-] lele394 disconnected!
+2020-08-05 16:04:15+0200 [-] pyspades server started on 08/05/20 16:04:15
+2020-08-05 16:04:15+0200 [-] Log opened.
+2020-08-05 16:04:15+0200 [-] Generating map 'classicgen #27221756'...
+2020-08-05 16:04:18+0200 [-] Map loaded successfully.
+2020-08-05 16:04:18+0200 [-] Started server...
+2020-08-05 16:04:18+0200 [-] Master connection established.
+2020-08-05 16:04:18+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:04:28+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:04:36+0200 [-] lele394 disconnected!
+2020-08-05 16:06:05+0200 [-] pyspades server started on 08/05/20 16:06:05
+2020-08-05 16:06:05+0200 [-] Log opened.
+2020-08-05 16:06:05+0200 [-] Generating map 'classicgen #1552685640'...
+2020-08-05 16:06:08+0200 [-] Map loaded successfully.
+2020-08-05 16:06:08+0200 [-] Started server...
+2020-08-05 16:06:08+0200 [-] Master connection established.
+2020-08-05 16:06:08+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:06:22+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:06:26+0200 [-] lele394 disconnected!
+2020-08-05 16:06:56+0200 [-] pyspades server started on 08/05/20 16:06:56
+2020-08-05 16:06:56+0200 [-] Log opened.
+2020-08-05 16:06:56+0200 [-] Generating map 'classicgen #1402001214'...
+2020-08-05 16:06:59+0200 [-] Map loaded successfully.
+2020-08-05 16:06:59+0200 [-] Started server...
+2020-08-05 16:06:59+0200 [-] Master connection established.
+2020-08-05 16:06:59+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:07:11+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:07:15+0200 [-] lele394 disconnected!
+2020-08-05 16:07:39+0200 [-] pyspades server started on 08/05/20 16:07:39
+2020-08-05 16:07:39+0200 [-] Log opened.
+2020-08-05 16:07:39+0200 [-] Generating map 'classicgen #874132903'...
+2020-08-05 16:07:42+0200 [-] Map loaded successfully.
+2020-08-05 16:07:42+0200 [-] Started server...
+2020-08-05 16:07:43+0200 [-] Master connection established.
+2020-08-05 16:07:43+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:07:54+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:07:58+0200 [-] lele394 disconnected!
+2020-08-05 16:08:22+0200 [-] pyspades server started on 08/05/20 16:08:22
+2020-08-05 16:08:22+0200 [-] Log opened.
+2020-08-05 16:08:22+0200 [-] Traceback (most recent call last):
+2020-08-05 16:08:22+0200 [-]   File "run.py", line 1074, in <module>
+2020-08-05 16:08:22+0200 [-]   File ".\scripts\disco.py", line 39, in __init__
+2020-08-05 16:08:22+0200 [-]     protocol.__init__(self, *arg, **kw)
+2020-08-05 16:08:22+0200 [-]   File "run.py", line 687, in __init__
+2020-08-05 16:08:22+0200 [-]   File "pyspades\server.pyo", line 1491, in __init__
+2020-08-05 16:08:22+0200 [-]   File "pyspades\protocol.pyo", line 85, in __init__
+2020-08-05 16:08:22+0200 [-]   File "enet.pyx", line 869, in enet.Host.__init__ (enet.c:10169)
+2020-08-05 16:08:22+0200 [-] MemoryError: Unable to create host structure!
+2020-08-05 16:08:26+0200 [-] pyspades server started on 08/05/20 16:08:26
+2020-08-05 16:08:26+0200 [-] Log opened.
+2020-08-05 16:08:26+0200 [-] Generating map 'classicgen #1762388952'...
+2020-08-05 16:08:30+0200 [-] Map loaded successfully.
+2020-08-05 16:08:30+0200 [-] Started server...
+2020-08-05 16:08:30+0200 [-] Master connection established.
+2020-08-05 16:08:30+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:08:40+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:08:45+0200 [-] lele394 disconnected!
+2020-08-05 16:08:56+0200 [-] pyspades server started on 08/05/20 16:08:56
+2020-08-05 16:08:56+0200 [-] Log opened.
+2020-08-05 16:08:56+0200 [-] Generating map 'classicgen #1741341696'...
+2020-08-05 16:08:59+0200 [-] Map loaded successfully.
+2020-08-05 16:08:59+0200 [-] Started server...
+2020-08-05 16:08:59+0200 [-] Master connection established.
+2020-08-05 16:08:59+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:09:10+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:09:16+0200 [-] lele394 disconnected!
+2020-08-05 16:09:31+0200 [-] pyspades server started on 08/05/20 16:09:31
+2020-08-05 16:09:31+0200 [-] Log opened.
+2020-08-05 16:09:31+0200 [-] Generating map 'classicgen #397518284'...
+2020-08-05 16:09:34+0200 [-] Map loaded successfully.
+2020-08-05 16:09:34+0200 [-] Started server...
+2020-08-05 16:09:34+0200 [-] Master connection established.
+2020-08-05 16:09:34+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:09:53+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:09:57+0200 [-] lele394 disconnected!
+2020-08-05 16:10:13+0200 [-] pyspades server started on 08/05/20 16:10:13
+2020-08-05 16:10:13+0200 [-] Log opened.
+2020-08-05 16:10:13+0200 [-] Generating map 'classicgen #824778947'...
+2020-08-05 16:10:16+0200 [-] Map loaded successfully.
+2020-08-05 16:10:16+0200 [-] Started server...
+2020-08-05 16:10:16+0200 [-] Master connection established.
+2020-08-05 16:10:16+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:10:37+0200 [-] 192.168.1.254 disconnected
+2020-08-05 16:11:18+0200 [-] 192.168.1.254 disconnected
+2020-08-05 16:11:35+0200 [-] pyspades server started on 08/05/20 16:11:35
+2020-08-05 16:11:35+0200 [-] Log opened.
+2020-08-05 16:11:35+0200 [-] Generating map 'classicgen #1994737190'...
+2020-08-05 16:11:38+0200 [-] Map loaded successfully.
+2020-08-05 16:11:38+0200 [-] Started server...
+2020-08-05 16:11:38+0200 [-] Master connection established.
+2020-08-05 16:11:38+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:11:48+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:12:00+0200 [-] lele394 disconnected!
+2020-08-05 16:12:30+0200 [-] pyspades server started on 08/05/20 16:12:30
+2020-08-05 16:12:30+0200 [-] Log opened.
+2020-08-05 16:12:30+0200 [-] Generating map 'classicgen #1095775023'...
+2020-08-05 16:12:33+0200 [-] Map loaded successfully.
+2020-08-05 16:12:33+0200 [-] Started server...
+2020-08-05 16:12:33+0200 [-] Master connection established.
+2020-08-05 16:12:34+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:12:54+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:13:16+0200 [-] 0
+2020-08-05 16:13:16+0200 [-] 0
+2020-08-05 16:13:16+0200 [-] 1
+2020-08-05 16:13:18+0200 [-] 0
+2020-08-05 16:13:18+0200 [-] 0
+2020-08-05 16:13:18+0200 [-] 1
+2020-08-05 16:13:20+0200 [-] 0
+2020-08-05 16:13:20+0200 [-] 0
+2020-08-05 16:13:20+0200 [-] 1
+2020-08-05 16:13:23+0200 [-] <lele394> /a  -> Every 3 consecutive kills (without dying) you get an airstrike. 3 kills to go!
+2020-08-05 16:13:56+0200 [-] lele394 disconnected!
+2020-08-05 16:17:15+0200 [-] pyspades server started on 08/05/20 16:17:15
+2020-08-05 16:17:15+0200 [-] Log opened.
+2020-08-05 16:17:15+0200 [-] Generating map 'classicgen #2105693492'...
+2020-08-05 16:17:18+0200 [-] Map loaded successfully.
+2020-08-05 16:17:18+0200 [-] Started server...
+2020-08-05 16:17:18+0200 [-] Master connection established.
+2020-08-05 16:17:19+0200 [HTTPPageGetter,client] Server identifier is aos://3234298712:32887
+2020-08-05 16:17:30+0200 [-] lele394 (IP 192.168.1.254, ID 0) entered the game!
+2020-08-05 16:19:24+0200 [-] lele394 disconnected!
